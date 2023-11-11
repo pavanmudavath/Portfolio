@@ -1,2 +1,3 @@
-# Portfolio
-"Responsive portfolio site crafted with HTML, CSS, and JS highlighting my development journey and works."
+## Deployed Portfolio
+
+[View My Portfolio](https://porfolio-4957olpyx-pavanmudavaths-projects.vercel.app/)
